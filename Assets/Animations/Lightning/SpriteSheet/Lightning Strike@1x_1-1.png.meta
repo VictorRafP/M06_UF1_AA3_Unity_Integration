@@ -1,0 +1,615 @@
+fileFormatVersion: 2
+guid: c898705713126544abd5df11f7723f69
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3016
+        width: 1064
+        height: 6
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4709021241fd6c24a801951e80b29362
+      internalID: -1491977350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_1
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 3016
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e147aacf39ec424687835924e2dc5fe
+      internalID: 1833858788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_2
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 3016
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2521f4d6e18b26343bdaa1ad4538180c
+      internalID: 151347455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_3
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 3016
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb38b8b01d6ab5e47bb22948c2c6f500
+      internalID: -891275583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_4
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 3016
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6223add329062b4b9a038f093904ce2
+      internalID: -1200530927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_5
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 3016
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5eea60792287e045930d4d7586514a5
+      internalID: -1955023557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_6
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 3016
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cc9dc994c827943bca35972ce21633
+      internalID: 407402215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1936
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edae408c39660e44bccba0fa8d4a910
+      internalID: -518294809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_8
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1936
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19de0ac2bf573574f92dceda0c8651d0
+      internalID: -1743782915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_9
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1936
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b884cd13b054c43a86c29e1e61e1bb
+      internalID: 2025520355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_10
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 1936
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a5f6458834a02418c964ddcc8a4d2e
+      internalID: -242768784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_11
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 1936
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cdc92c76c926b47a7c4711441332ae
+      internalID: -1339739396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_12
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 1936
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2a8f4dd5bf5d64fada06a39010674c
+      internalID: 83829784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_13
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 1936
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c88d28e652660741a0e09190c906d0f
+      internalID: 1696742771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80399958fa5efd43914afd3cd200d61
+      internalID: -557593091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_15
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 856
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9021197ffd69b7b40acb05f5c7638e41
+      internalID: -2024962586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_16
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 856
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd0c744bfbb6304991903c13fb8a7a3
+      internalID: -564546586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_17
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 856
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe493466d8f85e547a49c33d48fd4576
+      internalID: -1652927943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_18
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 856
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07bfdab10683ba4aa9653434339f054
+      internalID: -1627024125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_19
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 856
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76879a928c087c48bd7a731b491beb9
+      internalID: -1583667593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning Strike@1x_1-1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3016
+        width: 1150
+        height: 1080
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cbcd32470196844ad3f04a1fc7e9d8
+      internalID: 393327702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lightning Strike@1x_1-1_0: -1491977350
+      Lightning Strike@1x_1-1_1: 1833858788
+      Lightning Strike@1x_1-1_10: -242768784
+      Lightning Strike@1x_1-1_11: -1339739396
+      Lightning Strike@1x_1-1_12: 83829784
+      Lightning Strike@1x_1-1_13: 1696742771
+      Lightning Strike@1x_1-1_14: -557593091
+      Lightning Strike@1x_1-1_15: -2024962586
+      Lightning Strike@1x_1-1_16: -564546586
+      Lightning Strike@1x_1-1_17: -1652927943
+      Lightning Strike@1x_1-1_18: -1627024125
+      Lightning Strike@1x_1-1_19: -1583667593
+      Lightning Strike@1x_1-1_2: 151347455
+      Lightning Strike@1x_1-1_20: 393327702
+      Lightning Strike@1x_1-1_3: -891275583
+      Lightning Strike@1x_1-1_4: -1200530927
+      Lightning Strike@1x_1-1_5: -1955023557
+      Lightning Strike@1x_1-1_6: 407402215
+      Lightning Strike@1x_1-1_7: -518294809
+      Lightning Strike@1x_1-1_8: -1743782915
+      Lightning Strike@1x_1-1_9: 2025520355
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

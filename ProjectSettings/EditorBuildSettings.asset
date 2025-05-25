@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuInicio.unity
+    guid: ba6af355f1242fb4f96b9676807de0d3
+  - enabled: 1
+    path: Assets/Scenes/CambiarOleadas.unity
+    guid: 1415dbdca14e96a4290868becd70c390
+  - enabled: 1
+    path: Assets/Scenes/JefeFuego.unity
+    guid: c025189a65b13e94e89007642494faf6
+  - enabled: 1
+    path: Assets/Scenes/Oleada2.unity
+    guid: 14928af4dfa56b840961fc2ed38387c3
+  - enabled: 1
+    path: Assets/Scenes/JefePlanta.unity
+    guid: 2883346a3d094274a8bcb4a7a0a8c9e9
+  - enabled: 1
+    path: Assets/Scenes/Oleada3.unity
+    guid: 52c6f92c9b1f2bc4ab6090ee9967bc2e
+  - enabled: 1
+    path: Assets/Scenes/JefeRayo.unity
+    guid: 3cd701e7877f4c449bd8b05e59748ea3
+  - enabled: 1
+    path: Assets/Scenes/OleadaFinal.unity
+    guid: 5a45f1684a17e5f44ae83d550c653694
+  - enabled: 1
+    path: Assets/Scenes/Menus_Secundarios/MenuOpciones.unity
+    guid: 9ff72afb2a575034eb8cd2797b1358bb
+  - enabled: 1
+    path: Assets/Scenes/Menus_Secundarios/MenuControles.unity
+    guid: aaa2f26af311a054c9425d6653f40fc0
+  - enabled: 1
+    path: Assets/Scenes/Menus_Secundarios/Creditos.unity
+    guid: 2f93a9be38dd8064f9c0bd60f02e2f61
+  m_configObjects: {}
